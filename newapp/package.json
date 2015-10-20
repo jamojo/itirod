@@ -1,0 +1,19 @@
+{
+  "name": "TestApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "ejs": "^2.3.4",
+    "socketcluster": "^2.3.18",
+    "html": "^0.0.10",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
